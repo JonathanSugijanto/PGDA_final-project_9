@@ -1,16 +1,16 @@
-# PGDA_final-project_Afrah
-The final project of Afrah team for The Modelling, Data Generation, and Analysis course - The Physics Department of ITB. This repository formats, cleans, processes, and visualizes a Neon Gas Franck-Hertz Experiment data. Further processing is then used to find the excitation energy of the neon gas.
+# PGDA_final-project_9
+The final project of team 9 for The Modelling, Data Generation, and Analysis course - The Physics Department of ITB. This repository formats, cleans, processes, and visualizes Neon Gas Franck-Hertz Experiment data. Further processing is then used to find the excitation energy of the neon gas.
 
 ## List of contents
 - PGDA_final-project_Afrah
   - raw_data
     * Description: Contains all the raw data from the experiment in Indonesia's numbering format.
   - formatted_data
-    * Description: Contains the translated data into ENglish's numbering format.
+    * Description: Contains the translated data in English numbering format.
   - final_report.ipynb
-    * Description: Contains all the fata formatting, cleaning, processing, and visualizing in the form of a formal Indonesian report.
+    * Description: Contains all the data formatting, cleaning, processing, and visualizing in a formal Indonesian report.
   - README.md
-    * Description: Describe the contents and give a guide through the repositoory.
+    * Description: Describe the contents and give a guide through the repository.
 
 ## Members and contributions
 No | Name | ID | GitHub username | In charge activity | Info with link | Shared max point 

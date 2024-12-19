@@ -9,6 +9,8 @@ The final project of team 9 for The Modelling, Data Generation, and Analysis cou
     * Description: Contains the translated data in English numbering format.
   - final_report.ipynb
     * Description: Contains all the data formatting, cleaning, processing, and visualizing in a formal Indonesian report.
+  - full_code.ipynb
+    * Description: Contains all the code used in final_report.ipynb.
   - README.md
     * Description: Describe the contents and give a guide through the repository.
 

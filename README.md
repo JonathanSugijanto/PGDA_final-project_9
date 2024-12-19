@@ -1,2 +1,2 @@
-# PGDA_final-project_Afrah
-The final project of Afrah team for The Modelling, Data Generation, and Analysis course - The Physics Department of ITB
+# PGDA_final-project
+The final project of team 9 for The Modelling, Data Generation, and Analysis course - The Physics Department of ITB

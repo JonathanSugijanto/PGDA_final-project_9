@@ -19,5 +19,6 @@ No | Name | ID | GitHub username | In charge activity | Info with link | Shared 
 :-: | :- | :-: | :- | :- | :- | :-:
 1 | Jonathan Sugijanto | 10222007 | [JonathanSugijanto](https://github.com/jonathansugijanto) | Discussion on GitHub issues | [title](github/gist_link) | 10
 2 | Afrah Damara Yani | 10222049 | [Coocoomber333](https://github.com/Coocoomber333) | Notebook finalization |  [title](github/gist_link) | 50
-3 | Melinda Alberta | 10222066 | [melindaaaaaaaaaaaaaaaaaaaaa](https://github.com/melindaaaaaaaaaaaaaaaaaaaaa) | Slide on OSF | [title](github/gist_link) | 20 
-4 | Eliza Putri Hapsani | 10222103 | [pheliza](https://github.com/pheliza) | YouTube presentation video | [title](github/gist_link) | 20
+3 | Eliza Putri Hapsani | 10222103 | [pheliza](https://github.com/pheliza) | Slide on OSF | [title](github/gist_link) | 20
+4 | Melinda Alberta | 10222066 | [melindaaaaaaaaaaaaaaaaaaaaa](https://github.com/melindaaaaaaaaaaaaaaaaaaaaa) | YouTube presentation video | [title](github/gist_link) | 20 
+
